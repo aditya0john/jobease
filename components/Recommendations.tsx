@@ -2,7 +2,6 @@ import { recommendedJobs } from "@/data/index";
 import React, { useState } from "react";
 
 function Recommendations() {
-  const [apply, setApply] = useState(true);
 
   return (
     <div className="h-screen w-full flex flex-col gap-8 items-center justify-start p-4">
