@@ -1,5 +1,5 @@
 import { recommendedJobs } from "@/data/index";
-import React, { useState } from "react";
+import React from "react";
 
 function Recommendations() {
 
